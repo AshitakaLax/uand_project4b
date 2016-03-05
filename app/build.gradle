@@ -29,6 +29,7 @@ dependencies {
     compile project(':libjoker')
     compile project(':jodis')
     // Added for AdMob
+    compile project(path: ':jokerBackend', configuration: 'android-endpoints')
     compile 'com.android.support:appcompat-v7:23.2.0'
     compile 'com.google.android.gms:play-services:8.4.0'
     compile 'com.google.android.gms:play-services-ads:8.4.0'
