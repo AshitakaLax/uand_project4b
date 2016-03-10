@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\instantRunSlicer\paid\debug\jars\1\5\main_sliceb.jar"
+        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\instantRunSlicer\free\debug\jars\1\1a\dependencies.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="e9c27049a2f725be048932d03b113415678b3347">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\dex\paid\debug\folders\1000\5\main_sliceb_742751c54e6c1e2ff182e8391f5017bb567323d2\classes.dex" />
+        sha1="ddc13b1c91663f2b8750db847c4b56feb9733119">
+        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\dex\free\debug\folders\1000\1a\dependencies_89d6b52c996a3e6d3958971fb039d90f9099cc38\classes.dex" />
     </item>
     <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\instantRunSlicer\paid\debug\jars\1\1a\dependencies.jar"
+        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\instantRunSlicer\free\debug\jars\1\5\main_sliceb.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="507f970379f55e477f3bd11cbbb604e371d8c06e">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\dex\paid\debug\folders\1000\1a\dependencies_abc563c4c9d2c38b3a988a081a06467f4ca34f2c\classes.dex" />
+        sha1="fbe5cc723655c3fa84a4130eb09452a18bf23fc2">
+        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\dex\free\debug\folders\1000\5\main_sliceb_762300ac68a52a371087636aa8528c83a35a8032\classes.dex" />
     </item>
     <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\instantRunSlicer\paid\debug\jars\1\5\main_slice.jar"
+        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\instantRunSlicer\free\debug\jars\1\5\main_slice.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="01ef02824a80c983edb02a62771571b9c81a3003">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\dex\paid\debug\folders\1000\5\main_slice_32743898269108999605ba11f0d40e69b2b54871\classes.dex" />
+        sha1="8756dc21ca3aa4a9bde0d5fb637fd2d232f265ce">
+        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\dex\free\debug\folders\1000\5\main_slice_32f8a4d81843373fa62b6eff140ce835a7127d7d\classes.dex" />
     </item>
 
 </items>
