@@ -2,165 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\instantRunSlicer\paid\debug\jars\1\5\main_sliceb.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_defb1a583f4bc1770ea933a4d194a2811bda0be0.jar" />
+        sha1="e9c27049a2f725be048932d03b113415678b3347">
+        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\dex\paid\debug\folders\1000\5\main_sliceb_742751c54e6c1e2ff182e8391f5017bb567323d2\classes.dex" />
     </item>
     <item
-        jar="C:\Users\balling\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\instantRunSlicer\paid\debug\jars\1\1a\dependencies.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="2408070b2abec043624d35b35e30450f1b663858">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0_8b19084a26fc99a51c747b74b78e18a1cadedc8c.jar" />
+        sha1="507f970379f55e477f3bd11cbbb604e371d8c06e">
+        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\dex\paid\debug\folders\1000\1a\dependencies_abc563c4c9d2c38b3a988a081a06467f4ca34f2c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\balling\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\instantRunSlicer\paid\debug\jars\1\5\main_slice.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.20.0_e3015803bc28c4a803689b2358c80bd2db6700df.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9_e49b321047486deb29d9f67b5c96f3910944b90d.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_b9ccb6fba302ec510ab1ce3efec2775cdb7aa06c.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3_eae37bbe48b91cb8e1e104dcfea09994f0e062e7.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_09d06b3d699373576c57a080e390697a75e9561f.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_58e06798a8712face6e765b1b4ca0c600a857e15.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="05673179575c32b69a474334255c3044adf18d40">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.20.0_5874e5bb37b415179a387bda35d4802e4d4a9f2e.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_520bc5a11f93d2f6132a715dd4cc93d9c6150847.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_70a2885c145e2b820eb2ead2a78072ea013389e9.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0_9e9a325e4c794f94d859f313618b465257f1dd6e.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_ca1b7ef5ce321866360a12d9a79ffd1facd6b733.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_830eb5f135926e97511166f4faa59f5a670a1284.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\jokerBackend\build\libs\jokerBackend-android-endpoints.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e6227118d11c362f474a7fd87e3a45ecfa6936d0">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\jokerBackend-android-endpoints_86148e07fe85881860802c56bb197b60570b82e4.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0_82fa73f0d8e0e8892eeda6d62c639840713041d5.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_9b6fb978358dac7de56a24a86edf99e73eaf4a89.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_5902072c7622f46ff6dbffb4bb09f52416259bb2.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_432c69912f87002f041eca2cc16771efd1a1d684.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0_cfbfd9de1e7a2273fee4dc05e03a381b743ec45e.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="292a9fa091757208efa65e77eef63088247e51f3">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_d3182aa8649b39465105fdf0e7162d857a8bc382.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\exploded-aar\uand_project4b\jodis\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a216458ffd45f293dfe1790dad04e5e4cbd0c947">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\uand_project4b-jodis-unspecified_36228f79f0a3f0f16e2dae6aec767864813148c9.jar" />
-    </item>
-    <item
-        jar="C:\Users\balling\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
-        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0_3835b9f06d8974ffb5ef15f0c9d5a975495d16c0.jar" />
+        sha1="01ef02824a80c983edb02a62771571b9c81a3003">
+        <dex dex="C:\Users\balling\Desktop\workspace\School\uand_project4b\app\build\intermediates\transforms\dex\paid\debug\folders\1000\5\main_slice_32743898269108999605ba11f0d40e69b2b54871\classes.dex" />
     </item>
 
 </items>

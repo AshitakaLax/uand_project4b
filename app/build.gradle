@@ -17,6 +17,12 @@ android {
         }
     }
     productFlavors {
+        paid {
+            applicationId 'com.udacity.gradle.builditbigger.paid'
+        }
+        free {
+            applicationId 'com.udacity.gradle.builditbigger.free'
+        }
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_7
