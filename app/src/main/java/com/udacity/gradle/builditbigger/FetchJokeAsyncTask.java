@@ -21,6 +21,7 @@ public class FetchJokeAsyncTask extends AsyncTask<Void, Void, String>{
     private static MyApi myApiService = null;
 
     private Context mContext;
+    private String mJokeString;
 
     public FetchJokeAsyncTask(Context context)
     {
@@ -56,11 +57,19 @@ public class FetchJokeAsyncTask extends AsyncTask<Void, Void, String>{
     @Override
     protected void onPostExecute(String joke) {
         super.onPostExecute(joke);
-        Intent jodisIntent = new Intent(this.mContext , JoDisActivity.class);
-        jodisIntent.putExtra(JoDisActivity.JODIS_JOKE_STRING, joke);
-        this.mContext.startActivity(jodisIntent);
+        this.mJokeString = joke;
+        if(this.mContext != null) {
+            Intent jodisIntent = new Intent(this.mContext, JoDisActivity.class);
+            jodisIntent.putExtra(JoDisActivity.JODIS_JOKE_STRING, joke);
+            this.mContext.startActivity(jodisIntent);
+        }
+    }
 
-
-
+    /**
+     * This is to validate getting the joke
+     * @return joke string
+     */
+    public String getJokeString() {
+        return mJokeString;
     }
 }
